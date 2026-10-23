@@ -102,7 +102,9 @@ Windows 可能只是「已配对」而不是真正「已连接」。先关掉电
 
 ## 截图
 
-截图目录为 `screenshots/`。待补充后，图片会显示在这里。
+![小米蓝牙遥控器 2 Pro 实拍](screenshots/hardware.jpg)
+
+![Windows 配置截图](screenshots/settings-screenshot.png)
 
 ## 许可
 
