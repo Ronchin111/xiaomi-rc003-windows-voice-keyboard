@@ -1,0 +1,2 @@
+e36853bf4723e4c6e428120afb391fad4a059cc27b836574b5e9e9f0036632d2  SayAll-Windows-1.0.0-x64-setup.exe
+58b8a5d23d0cc940073732c64c081aea54e56bda46bad5947459b7e232d19b8a  SayAll-Windows-1.0.0-x64-setup.exe.sig

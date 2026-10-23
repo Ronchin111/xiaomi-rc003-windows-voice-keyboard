@@ -1,0 +1,13 @@
+# Editor and OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+
+# Visual Studio / VS Code local state
+.vs/
+.vscode/
+
+# Keep generated deployment artifacts
+# !RC003语音键盘_主机部署包_2026-10-23.zip

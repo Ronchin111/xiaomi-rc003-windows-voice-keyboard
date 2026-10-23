@@ -1,0 +1,111 @@
+{
+  "buttonMappings": {
+    "actions": {
+      "left": {
+        "double": {
+          "type": "disabled"
+        },
+        "long": {
+          "type": "disabled"
+        },
+        "single": {
+          "type": "disabled"
+        }
+      },
+      "menu": {
+        "double": {
+          "type": "disabled"
+        },
+        "long": {
+          "type": "disabled"
+        },
+        "single": {
+          "chord": {
+            "keys": [
+              "backspace"
+            ]
+          },
+          "type": "shortcut"
+        }
+      },
+      "ok": {
+        "double": {
+          "type": "disabled"
+        },
+        "long": {
+          "type": "disabled"
+        },
+        "single": {
+          "chord": {
+            "keys": [
+              "enter"
+            ]
+          },
+          "type": "shortcut"
+        }
+      },
+      "right": {
+        "double": {
+          "type": "disabled"
+        },
+        "long": {
+          "type": "disabled"
+        },
+        "single": {
+          "type": "disabled"
+        }
+      },
+      "tv": {
+        "double": {
+          "type": "disabled"
+        },
+        "long": {
+          "type": "disabled"
+        },
+        "single": {
+          "chord": {
+            "keys": [
+              "delete"
+            ]
+          },
+          "type": "shortcut"
+        }
+      },
+      "volume_down": {
+        "double": {
+          "type": "disabled"
+        },
+        "long": {
+          "type": "disabled"
+        },
+        "single": {
+          "chord": {
+            "keys": [
+              "volume_down"
+            ]
+          },
+          "type": "shortcut"
+        }
+      },
+      "volume_up": {
+        "double": {
+          "type": "disabled"
+        },
+        "long": {
+          "type": "disabled"
+        },
+        "single": {
+          "chord": {
+            "keys": [
+              "volume_up"
+            ]
+          },
+          "type": "shortcut"
+        }
+      }
+    },
+    "enabled": true,
+    "schemaVersion": 1
+  },
+  "formatVersion": 1
+}
